@@ -1,0 +1,12 @@
+
+header h1 {
+  color: black;
+}
+
+header h1 span {
+  border-color: black;
+}
+
+header .kicker {
+  color: black;
+}

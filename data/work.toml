@@ -1,0 +1,22 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Cupcakes"
+    folder = "cupcakes"
+
+[[projects]]
+    name = "Sheet"
+    folder = "sheet"
+
+[[projects]]
+    name = "Specialty"
+    folder = "specialty"
+
+[[projects]]
+    name = "Standard"
+    folder = "standard"
+
+[[projects]]
+    name = "Tiered"
+    folder = "tiered"
